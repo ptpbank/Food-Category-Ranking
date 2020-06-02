@@ -1,4 +1,4 @@
-# food_name_freq
+# food_category_ranking
 
 ผมแนบ words_th.txtไว้ด้วยนะครับ
 ในไฟล์จะประกอบไปด้วยเมนูอาหารที่ผม list มาเท่าที่จะทำได้
